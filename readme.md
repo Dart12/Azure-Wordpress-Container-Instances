@@ -1,5 +1,5 @@
 # Azure-Wordpress-Container-Instances
-Template objective is hosting a .net web app with SQL database while maintaining connection security from the SQL Database to the web app.
+
 
 ## Resources created in Template
 * Application Gateway: Layer 7 load balancer with WAF. Privatly connects Azure Container Instances to the internet.
